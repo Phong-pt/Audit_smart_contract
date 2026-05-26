@@ -1,4 +1,6 @@
 # Audit
+Trước khi vào audit một smart contract , tôi muốn nói rằng bản quyền smart contract dưới đây thuộc về đội ngũ dreamhack. Bản thân tôi lấy smart contract của họ bởi tôi đã mua khóa học và đây là writeup cho các hợp đồng đầu tiên của bản thân. Vì đây là hợp đồng đầu tiên push lên và đây là challenge của dreamhack , sau này trước khi bắt đầu tôi sẽ luôn ghi lại nguồn của các hợp đồng thông minh được sử dụng để audit
+
 
 ## smart contract 
 dưới đây là hợp đồng có chữa lỗi overflow/under flow. 
